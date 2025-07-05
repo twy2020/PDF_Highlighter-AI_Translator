@@ -1,7 +1,8 @@
 # PDF Highlighter-AI Translator 使用指南
+作者：Teng
 
 ## 项目介绍
-PDF Highlighter-AI Translator 是一款基于人工智能的PDF文档标注和翻译工具，它结合了PDF高亮标注功能和AI翻译技术，帮助用户高效学习外语文档。
+PDF Highlighter-AI Translator 是一款基于大语言模型的的PDF文档标注和翻译工具，它结合了PDF高亮标注功能和AI翻译技术，帮助用户高效学习外语文档。
 
 主要功能亮点：
 - 智能文本选择和翻译
