@@ -23,9 +23,8 @@ cd PDF_Highlighter-AI_Translator
 ### 2. 安装依赖
 ```bash
 # 创建并激活虚拟环境（推荐）
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate    # Windows
+conda create -n pdf_tran python=3.12
+conda activate pdf_tran
 
 # 安装依赖包
 pip install -r requirements.txt
@@ -33,6 +32,8 @@ pip install -r requirements.txt
 
 ### 3. 配置API密钥
 编辑项目根目录下的 `ai.cfg` 文件，添加您的API密钥：
+使用siliconflow平台提供的api接口服务：https://cloud.siliconflow.cn/i/jLLp0NCk
+（上面的链接附带了作者的邀请码，注册双方都可以获得赠送余额，可以用很久翻译）
 ```json
 {
     "API_URL": "https://api.siliconflow.cn/v1/chat/completions",
