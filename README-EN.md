@@ -7,6 +7,10 @@
 ### 1. Project Overview
 
 PDF Highlighter–AI Translator is a document reader that combines PDF highlighting, annotation, and AI translation into one tool, designed especially for language learners and professional readers. It leverages a large language model’s capabilities alongside intuitive PDF operations to help you browse, understand, and organize document content efficiently.
+| ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/12887b091035f976d8eceaaaf181e243.png) | ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/21800d47bb8fb28f5988d376e76b5ddd.png) | ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/8936fbc4fb94c081a5debade846e3b6f.png) |
+| :---: | :---: | :---: |
+| ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/a55e09ac693cc017d467b92b386d1b39.png)  | ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/e0b83c24876116560e999ed42a1a80f3.png) | ![](https://github.com/twy2020/PDF_Highlighter-AI_Translator/blob/main/pics/e446d0434d776918ceb5928369326e8a.png) |
+
 
 ---
 
