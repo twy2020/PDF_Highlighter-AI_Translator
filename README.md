@@ -52,7 +52,7 @@ pip install -r requirements.txt
 }
 ```
 
-> **提示**：使用作者邀请码注册 siliconflow，可获得免费余额,https://cloud.siliconflow.cn/i/jLLp0NCk。
+> **提示**：使用作者邀请链接注册 siliconflow，可获得免费余额 https://cloud.siliconflow.cn/i/jLLp0NCk
 
 #### 3.2 界面偏好设置 (`ui.cfg`)
 
